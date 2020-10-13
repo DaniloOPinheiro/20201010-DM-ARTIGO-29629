@@ -1,6 +1,6 @@
 # BASEDO NO ARTIGO-29629 DA PLATAFORMA [DEVMEDIA](https://www.devmedia.com.br/)
 
-## PONTOS DA APLICAÇÃO CRIADAS
+## PONTOS DA APLICAÇÃO
 
 * Regras para nomes de variáveis
 * Modificadores
